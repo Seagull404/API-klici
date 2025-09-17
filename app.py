@@ -36,3 +36,4 @@ for d in drzave:
     print(d.get("probability"))
 
 #popravite izpis da bo lepši v procentih
+
